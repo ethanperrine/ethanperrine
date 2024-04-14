@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust & Javascript**
 
-- 👨‍💻 All of my projects are available at [saucesec.tech](saucesec.tech)
+- 👨‍💻 All of my projects are available at [saucesec.tech](https://saucesec.tech/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
